@@ -1,4 +1,4 @@
-import ContactForm from "../../components/ContactForm";
+import ContactForm from "../../../components/ContactForm";
 
 export default function ContactPage() {
   return (
@@ -6,7 +6,6 @@ export default function ContactPage() {
       
       {/* Notes / Intro */}
       <div className="text-center space-y-3">
-        
         <h2 className="text-3xl md:text-4xl font-bold text-gray-800">
           We’re Here to Bring Your Ideas to Life
         </h2>
